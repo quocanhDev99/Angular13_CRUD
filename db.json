@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "productName": "Coconut",
+      "category": "Fruits",
+      "choice": "Brand New",
+      "price": 220,
+      "comment": "None",
+      "date": "2022-03-14T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Cooker",
+      "category": "Electronic",
+      "choice": "Brand New",
+      "price": 500,
+      "comment": "123",
+      "date": "2022-03-08T17:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
